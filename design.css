@@ -1,0 +1,259 @@
+h1 
+{
+    font-size: 30px;
+}
+h2
+{
+    font-size: 24px;
+}
+
+h4
+{
+    font-size: 22px;
+}
+
+
+
+
+.heading{
+    height: 100px;
+    padding: 10px 0;
+}
+
+.logo{
+    float: left;
+    
+}
+
+.navigation{
+    float: right;
+    padding-top: 20px;
+}
+
+.navigation a{
+    color: black;
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 20px
+}
+
+a:hover{
+    border:2px solid black;  
+    
+   }
+
+
+.opening
+{
+    background-image: url("banner.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 10%;
+    
+}
+
+.opening h1{
+    font-size: 40px;
+}
+
+.headingtext
+{
+    text-align: center;
+    padding: 50px;
+    
+}
+.headingtext h2{
+    font-size: 30px;
+}
+
+.headingtext button
+{
+  background-color: greenyellow; 
+  border-radius: 10%;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 100px;
+  
+}
+
+.service
+{
+   padding-top: 2%;
+    text-align: center;
+}
+
+.service h2{
+    font-size: 30px;
+}
+
+.row
+{  
+    margin-bottom: 50px;
+}
+
+.column
+{
+    float: left;
+    padding: 10px 0;
+    margin: 40px; 
+}
+
+.column 
+img{ width: 100%;  border-radius: 2%;}
+
+.column 
+h3{ font-size: 20px;}
+
+.column 
+p{ font-size: 16px;}
+
+.aboutus
+{
+margin: 5%;
+}
+
+.aboutusText
+{
+    float: left;
+    width: 56%;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-bottom: 20%;
+}
+
+.aboutusText h4{
+    font-size: 15px;
+}
+
+.aboutusText button
+{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    border: 3px solid black;
+    padding: 7px 21px;
+}
+
+.aboutusImage
+{
+    float: right;
+    padding-bottom: 10%;
+}
+
+.question
+{
+    
+    margin-top: 1400px;
+    text-align: center;
+    background: url("qurestions-banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 10%;
+    
+}
+
+.question h1{
+    font-size: 40px;
+}
+
+.question button
+{
+    background-color: yellow; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+
+.contract
+{
+    padding-top: 80px;
+    padding-left: 170px;
+}
+
+.contract h2{
+    font-size: 30px;
+}
+
+table
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 100%;
+   
+}
+
+th
+{
+height: 40px;
+background-color: lightgray;
+border-bottom: 3px solid darkgray;
+}
+
+td {
+    height: 60px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    
+  }
+
+  tr:hover 
+  {
+    background-color: gray;
+  }
+
+
+  .formsleft
+  { 
+    margin-top: 5%;
+    width: 50%;
+    float: left;
+    font-size: 20px;
+    margin-left: 50px;
+  }
+  
+  .formsleft h2{
+    font-size: 35px;
+  }
+
+.formsleft button
+{
+    color: black;
+    background-color: greenyellow;
+    padding: 6px 24px;
+}
+
+ 
+.formsright img{
+    width: 100%;
+}
+
+  .formsright
+{
+    margin-top: 5%;
+    border-radius: 10px;
+    padding: 10px;
+    float: right;
+    background-color: silver;
+    width: 45%;
+} 
+
+
+.footer
+{
+    margin-top: 5%;
+    width: 100%;
+    float: left;
+    padding-left: 10%;
+    background-color: silver;
+}
+
+.footer h2{
+    font-size: 35px;
+}
